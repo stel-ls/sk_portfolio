@@ -22,4 +22,4 @@ In this group project, I webscraped data of apartment listings near UCLA from ap
 
 [Presentation]([NSDC Project/Bruin Apartment Finder Presentation.pdf](https://github.com/stel-ls/sk_portfolio/blob/cff86a2a6fc7f24187f9547bb8d3b20127c29f1b/NSDC%20Project/Bruin%20Apartment%20Finder%20Presentation.pdf)
 [R Cleaning]
-[Dataset]
+[Dataset](https://github.com/stel-ls/sk_portfolio/blob/30269d33befa5da10762483432903371d1729e59/NSDC%20Project/Apartment%20Dataset.tsv)
