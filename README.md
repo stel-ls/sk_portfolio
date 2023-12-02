@@ -15,3 +15,7 @@ After taking an Excel series online, I found a sales dataset tutorial and tested
 ![image](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20QuickView.png)
 
 [Download me!](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20Coffee%20Orders.xlsx)
+
+## Apartment Prices Visualization and Modelling
+
+In this group project, I webscraped data of apartment listings near UCLA from apartments.com using ParseHub, cleaned the data in R, and visualized some insights with Tableau. 
