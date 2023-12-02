@@ -19,6 +19,7 @@ After taking an Excel series online, I found a sales dataset tutorial and tested
 ## Apartment Prices Visualization and Modelling
 
 In this group project, I webscraped data of apartment listings near UCLA from apartments.com using ParseHub, cleaned the data in R, and visualized some insights with Tableau. 
+Attached below is our final project which we presented at the NSDC Fall 2023 Showcase as well as the R code I used to clean the data (with notes) and the final dataset we used in our analysis.
 
 [Presentation](https://github.com/stel-ls/sk_portfolio/blob/cff86a2a6fc7f24187f9547bb8d3b20127c29f1b/NSDC%20Project/Bruin%20Apartment%20Finder%20Presentation.pdf)
 
