@@ -20,4 +20,6 @@ After taking an Excel series online, I found a sales dataset tutorial and tested
 
 In this group project, I webscraped data of apartment listings near UCLA from apartments.com using ParseHub, cleaned the data in R, and visualized some insights with Tableau. 
 
-[Presentation](NSDC Project/Bruin Apartment Finder Presentation.pdf)
+[Presentation]([NSDC Project/Bruin Apartment Finder Presentation.pdf](https://github.com/stel-ls/sk_portfolio/blob/cff86a2a6fc7f24187f9547bb8d3b20127c29f1b/NSDC%20Project/Bruin%20Apartment%20Finder%20Presentation.pdf)
+[R Cleaning]
+[Dataset]
