@@ -26,3 +26,16 @@ Attached below is our final project which we presented at the NSDC Fall 2023 Sho
 [R Cleaning](https://github.com/stel-ls/sk_portfolio/blob/fc90d6f4c8ab537141b47ab96bd419e36fa577b3/NSDC%20Project/Data%20Cleaning.R)
 
 [Dataset](https://github.com/stel-ls/sk_portfolio/blob/30269d33befa5da10762483432903371d1729e59/NSDC%20Project/Apartment%20Dataset.tsv)
+
+
+
+
+
+### Completed Tutorials
+
+## Urban Heat Island Indicators Dashboard
+
+I created an interactive dashboard showing several heat island indicators in Richmond Virginia in an ArcGIS tutorial. The map is made up of multiple layers, which have been analyzed per census block group.
+
+[Dashboard](https://gisucla.maps.arcgis.com/apps/dashboards/73ea38af36d2468c97bc3293d7b21698)
+
