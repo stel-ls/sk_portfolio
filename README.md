@@ -12,7 +12,7 @@ I had self-studied some data cleaning as well as basic data manipulation and vis
 
 After taking an Excel series online, I found a sales dataset tutorial and tested it out onto this coffee data to create an interactive dashboard.
 
-![image](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20QuickView.png)
+![image](https://github.com/stel-ls/sk_portfolio/blob/main/Coffee%20Sales/Interactive%20Dashboard%201%20-%20QuickView.png)
 
 [Download me!](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20Coffee%20Orders.xlsx)
 
@@ -28,7 +28,11 @@ Attached below is our final project which we presented at the NSDC Fall 2023 Sho
 [Dataset](https://github.com/stel-ls/sk_portfolio/blob/30269d33befa5da10762483432903371d1729e59/NSDC%20Project/Apartment%20Dataset.tsv)
 
 
+## Flight Delays Visualizations
 
+I primarily visualized insights on millions of domestic US flight delays between the years 2019-2023 with an emphasis on pre and post COVID impacts. I also broke down flight delays by the day of the week and airline carrier.
+
+[Presentation](https://github.com/stel-ls/sk_portfolio/blob/1e6c1c8f623ceebdac36950f8ea8e0033b6dcb9b/NSDC%20Project/Revised%20W24%20-%20NSDC%20Presentation.pdf)
 
 
 ### Completed Tutorials
