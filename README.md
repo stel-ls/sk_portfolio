@@ -43,7 +43,7 @@ In the Data Blog team, I worked on the first section of this article which focus
 
 I had self-studied some data cleaning as well as basic data manipulation and visualization in R. Using a dataset I found on Kaggle, I sought to apply the skills I learned to real data. I outlined my thought process as well as my analysis on how the visualizations could be interpreted in the document linked below.
 
-[Check out the process here!](http://rpubs.com/stel-ls/1101790)
+[Check out the visuals here!](http://rpubs.com/stel-ls/1101790)
 
 ### Coffee Sales Dashboard -- Excel (Tutorial-Based)
 
@@ -51,7 +51,7 @@ After taking an Excel series online, I found a sales dataset tutorial and tested
 
 ![image](https://github.com/stel-ls/sk_portfolio/blob/main/Coffee%20Sales/Interactive%20Dashboard%201%20-%20QuickView.png)
 
-[DCheck out the dashboard here!](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20Coffee%20Orders.xlsx)
+[Check out the dashboard here!](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20Coffee%20Orders.xlsx)
 
 
 ### Urban Heat Island Indicators Dashboard (Tutorial-Based)
