@@ -1,4 +1,4 @@
-### Work Projects
+# Work Projects
 
 ## SCBGP Dashboard for the Local and Regional Foods Division at USDA
 
@@ -7,7 +7,7 @@ As a Coding It Forward Fellow, I had the chance to build an interactive dashboar
 [Presentation](https://github.com/codingitforward/fellowship2024/blob/main/Stella_Koh.pdf)
 
 
-### School Projects
+# School Projects
 
 ## Apartment Prices Visualization and Modelling
 
@@ -36,7 +36,7 @@ I primarily visualized insights on millions of domestic US flight delays between
 [Article](https://ucladatares.medium.com/decoding-rotten-tomatoes-scores-f4c58b0886c3)
 
 
-### Personal Projects
+# Personal Projects
 
 ## Netflix Visualizations -- R 
 
