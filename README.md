@@ -1,20 +1,13 @@
-### Personal Projects
+### Work Projects
 
-As a sophomore beginning my  journey into the vast field of data science, I have created this page to showcase a few personal projects I have been working on to develop my skills with real world data.
+## SCBGP Dashboard for the Local and Regional Foods Division at USDA
 
-## Netflix Visualizations -- R
+As a Coding It Forward Fellow, I had the chance to build an interactive dashboard 
 
-I had self-studied some data cleaning as well as basic data manipulation and visualization in R. Using a dataset I found on Kaggle, I sought to apply the skills I learned to real data. I outlined my thought process as well as my analysis on how the visualizations could be interpreted in the document linked below.
+[Presentation](https://github.com/codingitforward/fellowship2024/blob/main/Stella_Koh.pdf)
 
-[Check me out!](http://rpubs.com/stel-ls/1101790)
 
-## Coffee Sales Dashboard -- Excel
-
-After taking an Excel series online, I found a sales dataset tutorial and tested it out onto this coffee data to create an interactive dashboard.
-
-![image](https://github.com/stel-ls/sk_portfolio/blob/main/Coffee%20Sales/Interactive%20Dashboard%201%20-%20QuickView.png)
-
-[Download me!](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20Coffee%20Orders.xlsx)
+### School Projects
 
 ## Apartment Prices Visualization and Modelling
 
@@ -34,10 +27,33 @@ I primarily visualized insights on millions of domestic US flight delays between
 
 [Presentation](https://github.com/stel-ls/sk_portfolio/blob/1e6c1c8f623ceebdac36950f8ea8e0033b6dcb9b/NSDC%20Project/Revised%20W24%20-%20NSDC%20Presentation.pdf)
 
+## Effect of Racquet Specifications on Tennis Performance
 
-### Completed Tutorials
+[Article](https://www.bruinsportsanalytics.com/post/raquet-specifications)
 
-## Urban Heat Island Indicators Dashboard
+## Decoding Rotten Tomatoes Scores
+
+[Article](https://ucladatares.medium.com/decoding-rotten-tomatoes-scores-f4c58b0886c3)
+
+
+### Personal Projects
+
+## Netflix Visualizations -- R 
+
+I had self-studied some data cleaning as well as basic data manipulation and visualization in R. Using a dataset I found on Kaggle, I sought to apply the skills I learned to real data. I outlined my thought process as well as my analysis on how the visualizations could be interpreted in the document linked below.
+
+[Check me out!](http://rpubs.com/stel-ls/1101790)
+
+## Coffee Sales Dashboard -- Excel (Tutorial-Based)
+
+After taking an Excel series online, I found a sales dataset tutorial and tested it out onto this coffee data to create an interactive dashboard.
+
+![image](https://github.com/stel-ls/sk_portfolio/blob/main/Coffee%20Sales/Interactive%20Dashboard%201%20-%20QuickView.png)
+
+[Download me!](https://github.com/stel-ls/sk_portfolio/blob/45eb5570816b5140cf39cb6165c0b80549f7f67b/Coffee%20Sales/Interactive%20Dashboard%201%20-%20Coffee%20Orders.xlsx)
+
+
+## Urban Heat Island Indicators Dashboard (Tutorial-Based)
 
 I created an interactive dashboard showing several heat island indicators in Richmond Virginia in an ArcGIS tutorial. The map is made up of multiple layers, which have been analyzed per census block group.
 
