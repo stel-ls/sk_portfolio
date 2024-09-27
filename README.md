@@ -32,7 +32,7 @@ As Data Journalist on the Bruin Sports Analytics team, my partner and I analyzed
 
 ### Decoding Rotten Tomatoes Scores
 
-In the Data Blog team, I worked on the first section of this article which focuses on analyzing movie trends of the years based on Rotten Tomatoes reviews and ratings.
+In the Data Blog team, I worked on the first section of this article which focuses on analyzing movie trends over the decades based on Rotten Tomatoes reviews and ratings.
 
 [Check out the article here!](https://ucladatares.medium.com/decoding-rotten-tomatoes-scores-f4c58b0886c3)
 
