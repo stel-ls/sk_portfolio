@@ -7,6 +7,12 @@ I worked at the USDA as a Data Analyst Fellow in the summer of 2024, creating an
 [Check out the presentation here!](https://github.com/codingitforward/fellowship2024/blob/main/Stella_Koh.pdf)
 
 
+### 2024 USDA Innovation Hackathon Project
+
+We aimed to reduce the burden of manually pulling, calculating, and reporting on the AgCensus data to help the Agriculture Marketing Service Grants Division develop funding models for noncompetitive grants programs. Our end product was an R Shiny Dashboard that provides funding gap insights by breaking down sales by commodities and socio-demographic data.
+
+[Check out the Github repository here!](https://github.com/ams-goonies/usda-hackathon-2024)
+
 # School Projects
 
 ### Apartment Prices Visualization and Modelling
